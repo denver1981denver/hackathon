@@ -287,6 +287,15 @@ ul {
 	font-size: 14px;
 }
 
+.footer__link-company {
+	font-size: 20px;
+	color: green;
+}
+
+.video {
+	display: none;
+}
+
 @media (max-width: 880px) {
 	.container {
 		padding: 0 10px;
